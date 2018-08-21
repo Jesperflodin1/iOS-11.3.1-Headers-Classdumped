@@ -1,0 +1,5 @@
+#import <BridgePreferences/__BPSSetupOptinViewControllerAccessibility_super.h>
+#import <BridgePreferences/BPSSetupOptinViewControllerAccessibility.h>
+#import <BridgePreferences/__BPSSetupPageViewControllerAccessibility_super.h>
+#import <BridgePreferences/BPSSetupPageViewControllerAccessibility.h>
+#import <BridgePreferences/AXBridgePreferencesGlue.h>

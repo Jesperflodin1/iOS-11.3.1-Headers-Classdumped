@@ -1,0 +1,13 @@
+#import <BiometricKitUI/BKUIPearlPillContainerView.h>
+#import <BiometricKitUI/BKUIPearlEnrollController.h>
+#import <BiometricKitUI/BKUIPearlCrossHairsManager.h>
+#import <BiometricKitUI/BKUIPearlPillView.h>
+#import <BiometricKitUI/BKUIPearlMovieLoopView.h>
+#import <BiometricKitUI/BiometricKitUI.h>
+#import <BiometricKitUI/BKUIPearlSpringInstance.h>
+#import <BiometricKitUI/BKUIPearlCrossHairsView.h>
+#import <BiometricKitUI/BiometricKitUIEnrollViewController.h>
+#import <BiometricKitUI/BKUIPearlPositioningGuideView.h>
+#import <BiometricKitUI/BKUIPearlEnrollView.h>
+#import <BiometricKitUI/BKUIPearlCrossHairsRenderingView.h>
+#import <BiometricKitUI/BKUIPearlEnrollManager.h>

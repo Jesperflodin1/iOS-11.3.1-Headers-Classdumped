@@ -1,0 +1,15 @@
+#import <SiriUICore/_SUICEditScript.h>
+#import <SiriUICore/_SUICIntArray2D.h>
+#import <SiriUICore/SUICApplicationStateHelper.h>
+#import <SiriUICore/_SUICEditScriptDataArray.h>
+#import <SiriUICore/SUICSiriLanguage.h>
+#import <SiriUICore/SUICAudioLevelSmoother.h>
+#import <SiriUICore/_SUICAtomRanged.h>
+#import <SiriUICore/_SUICAtomIndexed.h>
+#import <SiriUICore/_SUICEditScriptRanged.h>
+#import <SiriUICore/_SUICEditScriptIndexed.h>
+#import <SiriUICore/_SUICStreamingWord.h>
+#import <SiriUICore/SUICStreamingTextView.h>
+#import <SiriUICore/SUICFauxFlamesImageDataContainer.h>
+#import <SiriUICore/SUICFauxFlamesView.h>
+#import <SiriUICore/FlameGroup.h>

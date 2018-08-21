@@ -1,0 +1,13 @@
+#import <ControlCenterUI/AXControlCenterUIGlue.h>
+#import <ControlCenterUI/__CCUIModuleCollectionViewControllerAccessibility_super.h>
+#import <ControlCenterUI/CCUIModuleCollectionViewControllerAccessibility.h>
+#import <ControlCenterUI/__CCUIContentModuleContainerViewAccessibility_super.h>
+#import <ControlCenterUI/CCUIContentModuleContainerViewAccessibility.h>
+#import <ControlCenterUI/__CCUIModularControlCenterViewControllerAccessibility_super.h>
+#import <ControlCenterUI/CCUIModularControlCenterViewControllerAccessibility.h>
+#import <ControlCenterUI/__CCUILayoutViewAccessibility_super.h>
+#import <ControlCenterUI/CCUILayoutViewAccessibility.h>
+#import <ControlCenterUI/__CCUIContentModuleContainerTransitionAccessibility_super.h>
+#import <ControlCenterUI/CCUIContentModuleContainerTransitionAccessibility.h>
+#import <ControlCenterUI/__CCUIContentModuleContainerViewControllerAccessibility_super.h>
+#import <ControlCenterUI/CCUIContentModuleContainerViewControllerAccessibility.h>

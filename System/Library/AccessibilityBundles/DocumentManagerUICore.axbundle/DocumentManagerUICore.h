@@ -1,0 +1,9 @@
+#import <DocumentManagerUICore/AXDocumentManagerUICoreGlue.h>
+#import <DocumentManagerUICore/__DOCTagCheckableDotViewAccessibility_super.h>
+#import <DocumentManagerUICore/DOCTagCheckableDotViewAccessibility.h>
+#import <DocumentManagerUICore/__DOCAddTagViewAccessibility_super.h>
+#import <DocumentManagerUICore/DOCAddTagViewAccessibility.h>
+#import <DocumentManagerUICore/__DOCTagEditorTextFieldCellAccessibility_super.h>
+#import <DocumentManagerUICore/DOCTagEditorTextFieldCellAccessibility.h>
+#import <DocumentManagerUICore/__DOCTagEditorTagCellAccessibility_super.h>
+#import <DocumentManagerUICore/DOCTagEditorTagCellAccessibility.h>

@@ -1,0 +1,12 @@
+#import <MSMessageExtensionBalloonPlugin/_MSMessageExtensionLoadingView.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionBalloonLiveViewController.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionBrowserViewController.h>
+#import <MSMessageExtensionBalloonPlugin/_MSRemoteBalloonViewControllerManager.h>
+#import <MSMessageExtensionBalloonPlugin/_MSRemoteBalloonViewController.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionUtilities.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionBalloonLiveView.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionBalloonView.h>
+#import <MSMessageExtensionBalloonPlugin/_MSLinkPresentationPropertyProvider.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionDataSource.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionFallbackTranscoder.h>
+#import <MSMessageExtensionBalloonPlugin/MSMessageExtensionBalloonController.h>

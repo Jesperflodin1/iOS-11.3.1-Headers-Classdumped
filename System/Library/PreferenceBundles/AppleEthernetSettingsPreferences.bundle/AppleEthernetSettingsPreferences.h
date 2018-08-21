@@ -1,0 +1,12 @@
+#import <AppleEthernetSettingsPreferences/AppleEthernetController.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetConfigurator.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetDNSConfigurator.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetIPv4Configurator.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetIPv6Configurator.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetInterfaceCell.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetKeychainUtilities.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetProtocolConfigurator.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetProxyConfigurator.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetInterface.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetSettingsConfig.h>
+#import <AppleEthernetSettingsPreferences/AppleEthernetSettingsController.h>

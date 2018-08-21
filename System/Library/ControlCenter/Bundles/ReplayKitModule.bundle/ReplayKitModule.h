@@ -1,0 +1,14 @@
+#import <ReplayKitModule/RPPreviewViewController.h>
+#import <ReplayKitModule/RPPipView.h>
+#import <ReplayKitModule/RPPipViewController.h>
+#import <ReplayKitModule/RPScreenRecorder.h>
+#import <ReplayKitModule/RPDaemonProxy.h>
+#import <ReplayKitModule/RPBroadcastController.h>
+#import <ReplayKitModule/RPBroadcastConfiguration.h>
+#import <ReplayKitModule/RPControlCenterModuleDefaults.h>
+#import <ReplayKitModule/RPControlCenterModuleCellView.h>
+#import <ReplayKitModule/RPControlCenterModuleRecordButtonView.h>
+#import <ReplayKitModule/RPControlCenterModule.h>
+#import <ReplayKitModule/RPControlCenterClient.h>
+#import <ReplayKitModule/RPControlCenterModuleViewController.h>
+#import <ReplayKitModule/RPControlCenterModuleBackgroundViewController.h>

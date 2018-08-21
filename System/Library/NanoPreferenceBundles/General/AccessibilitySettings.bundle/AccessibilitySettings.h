@@ -1,0 +1,13 @@
+#import <AccessibilitySettings/TripleClickCell.h>
+#import <AccessibilitySettings/TripleClickController.h>
+#import <AccessibilitySettings/BridgeZoomLabeledSliderCell.h>
+#import <AccessibilitySettings/ZoomController.h>
+#import <AccessibilitySettings/VoiceOverGestureDirectionDetailController.h>
+#import <AccessibilitySettings/AccessibilityBridgeBaseController.h>
+#import <AccessibilitySettings/VoiceOverTapticTimeDetailController.h>
+#import <AccessibilitySettings/SideButtonController.h>
+#import <AccessibilitySettings/AccessibilityBridgeSettingsController.h>
+#import <AccessibilitySettings/ReduceTransparencyController.h>
+#import <AccessibilitySettings/ReduceMotionController.h>
+#import <AccessibilitySettings/VoiceOverController.h>
+#import <AccessibilitySettings/VoiceOverSpeakSecondsDetailController.h>

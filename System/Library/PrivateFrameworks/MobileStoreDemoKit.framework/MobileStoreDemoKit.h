@@ -1,0 +1,1 @@
+#import <MobileStoreDemoKit/MSDKManagedDevice.h>

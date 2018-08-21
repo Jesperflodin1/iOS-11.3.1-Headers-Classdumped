@@ -1,0 +1,12 @@
+#import <com.apple.accessoryd.matching/ACCObjCType.h>
+#import <com.apple.accessoryd.matching/ACCSQLite.h>
+#import <com.apple.accessoryd.matching/ACCSQLiteStatement.h>
+#import <com.apple.accessoryd.matching/ACCAnalyticsLogger.h>
+#import <com.apple.accessoryd.matching/ACCAnalyticsLoggerSQLiteStore.h>
+#import <com.apple.accessoryd.matching/ACCAnalytics.h>
+#import <com.apple.accessoryd.matching/ACCUserNotificationManager.h>
+#import <com.apple.accessoryd.matching/ACCUserNotification.h>
+#import <com.apple.accessoryd.matching/BootArgs.h>
+#import <com.apple.accessoryd.matching/accessorydMatchingPlugin.h>
+#import <com.apple.accessoryd.matching/AttachEvent.h>
+#import <com.apple.accessoryd.matching/DetachEvent.h>

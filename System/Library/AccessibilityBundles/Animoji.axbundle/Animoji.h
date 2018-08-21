@@ -1,0 +1,15 @@
+#import <Animoji/__LaunchViewControllerAccessibility_super.h>
+#import <Animoji/LaunchViewControllerAccessibility.h>
+#import <Animoji/__PuppetCollectionViewCellAccessibility_super.h>
+#import <Animoji/PuppetCollectionViewCellAccessibility.h>
+#import <Animoji/__PuppetCollectionViewControllerAccessibility_super.h>
+#import <Animoji/PuppetCollectionViewControllerAccessibility.h>
+#import <Animoji/AXJellyfishGlue.h>
+#import <Animoji/__PuppetPickerViewControllerAccessibility_super.h>
+#import <Animoji/PuppetPickerViewControllerAccessibility.h>
+#import <Animoji/__RecordButtonAccessibility_super.h>
+#import <Animoji/RecordButtonAccessibility.h>
+#import <Animoji/__AXJellyfish_UIGestureRecognizerSafeCategory_super.h>
+#import <Animoji/AXJellyfish_UIGestureRecognizerSafeCategory.h>
+#import <Animoji/__MessagesViewControllerAccessibility_super.h>
+#import <Animoji/MessagesViewControllerAccessibility.h>

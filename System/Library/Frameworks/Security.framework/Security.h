@@ -1,0 +1,16 @@
+#import <Security/SFSQLite.h>
+#import <Security/SFAnalyticsMultiSampler.h>
+#import <Security/SFTransactionMetric.h>
+#import <Security/SFBehavior.h>
+#import <Security/SFSQLiteStatement.h>
+#import <Security/SFAnalyticsActivityTracker.h>
+#import <Security/CKKSControl.h>
+#import <Security/SecuritydXPCClient.h>
+#import <Security/SecuritydXPCCallback.h>
+#import <Security/SFAnalytics.h>
+#import <Security/SFObjCType.h>
+#import <Security/OTControl.h>
+#import <Security/SFAnalyticsSampler.h>
+#import <Security/SOSAnalytics.h>
+#import <Security/SFAnalyticsSQLiteStore.h>
+#import <Security/SecSOSStatus.h>

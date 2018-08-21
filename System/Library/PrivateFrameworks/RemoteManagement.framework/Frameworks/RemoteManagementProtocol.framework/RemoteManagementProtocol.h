@@ -1,0 +1,11 @@
+#import <RemoteManagementProtocol/RMPChangeRequest.h>
+#import <RemoteManagementProtocol/RMPCheckInProtocolAuthenticateRequest.h>
+#import <RemoteManagementProtocol/RMPCheckInProtocolCapabilitiesRequest.h>
+#import <RemoteManagementProtocol/RMPCheckInProtocolCheckOutRequest.h>
+#import <RemoteManagementProtocol/RMPCheckInProtocolTokenUpdateRequest.h>
+#import <RemoteManagementProtocol/RMPCommandsRequest.h>
+#import <RemoteManagementProtocol/RMPErrorResponse.h>
+#import <RemoteManagementProtocol/RMPRemoteManagementRequest.h>
+#import <RemoteManagementProtocol/RMPRemoteManagementResponse.h>
+#import <RemoteManagementProtocol/RMPSetRequest.h>
+#import <RemoteManagementProtocol/RMPStatusRequest.h>

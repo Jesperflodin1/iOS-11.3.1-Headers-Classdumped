@@ -1,0 +1,15 @@
+#import <CopicSettings/CopicCallLogProSettingsController.h>
+#import <CopicSettings/MessagesAppSettingsController.h>
+#import <CopicSettings/ContactsAppSettingsController.h>
+#import <CopicSettings/CopicSwitchCell.h>
+#import <CopicSettings/CopicPackageHeaderCell.h>
+#import <CopicSettings/BiteSMSAppSettingsController.h>
+#import <CopicSettings/CopicMiscController.h>
+#import <CopicSettings/MailAppSettingsController.h>
+#import <CopicSettings/CopicIARecentsSettingsController.h>
+#import <CopicSettings/LockScreenSettingsController.h>
+#import <CopicSettings/NCAppSettingsController.h>
+#import <CopicSettings/CopicGeneralSettingsController.h>
+#import <CopicSettings/FaceTimeAppSettingsController.h>
+#import <CopicSettings/CopicSettingsController.h>
+#import <CopicSettings/PhoneAppSettingsController.h>

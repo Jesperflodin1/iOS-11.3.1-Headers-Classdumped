@@ -1,0 +1,14 @@
+#import <HealthRecordServices/HDFHIRJSONObject.h>
+#import <HealthRecordServices/HDFHIRResourceLastSeenObject.h>
+#import <HealthRecordServices/HDReferenceExtractionRequest.h>
+#import <HealthRecordServices/HDFHIRResourceObject.h>
+#import <HealthRecordServices/HDRedactedFHIRResourceObject.h>
+#import <HealthRecordServices/HDHealthRecordsXPCServiceClient.h>
+#import <HealthRecordServices/HDExtractionRequest.h>
+#import <HealthRecordServices/HDReferenceExtractionResult.h>
+#import <HealthRecordServices/HDClinicalDataCollectionExtractionResult.h>
+#import <HealthRecordServices/HDHRSExtractionFailureRecord.h>
+#import <HealthRecordServices/HDHRSExtractionFailureInfo.h>
+#import <HealthRecordServices/HDFHIRResourceData.h>
+#import <HealthRecordServices/HDExtractionResult.h>
+#import <HealthRecordServices/HDUnresolvedReferenceSet.h>

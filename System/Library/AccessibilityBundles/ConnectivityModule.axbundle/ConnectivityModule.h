@@ -1,0 +1,7 @@
+#import <ConnectivityModule/AXConnectivityModuleGlue.h>
+#import <ConnectivityModule/__CCUIConnectivityBluetoothViewControllerAccessibility_super.h>
+#import <ConnectivityModule/CCUIConnectivityBluetoothViewControllerAccessibility.h>
+#import <ConnectivityModule/__CCUIConnectivityAirplaneViewControllerAccessibility_super.h>
+#import <ConnectivityModule/CCUIConnectivityAirplaneViewControllerAccessibility.h>
+#import <ConnectivityModule/__CCUIConnectivityButtonViewControllerAccessibility_super.h>
+#import <ConnectivityModule/CCUIConnectivityButtonViewControllerAccessibility.h>

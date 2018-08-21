@@ -1,0 +1,14 @@
+#import <InputContext/_ICInputContextManager.h>
+#import <InputContext/_ICProactiveTrigger.h>
+#import <InputContext/_ICPredictedItem.h>
+#import <InputContext/_ICPredictionManager.h>
+#import <InputContext/_ICContact.h>
+#import <InputContext/_ICNullLexiconManager.h>
+#import <InputContext/_ICNullSource.h>
+#import <InputContext/_ICPEXSource.h>
+#import <InputContext/_ICLexiconManager.h>
+#import <InputContext/_ICInternalSource.h>
+#import <InputContext/_ICSearchContext.h>
+#import <InputContext/_ICTransientLexicon.h>
+#import <InputContext/_ICResultCache.h>
+#import <InputContext/_ICNamedEntityStore.h>

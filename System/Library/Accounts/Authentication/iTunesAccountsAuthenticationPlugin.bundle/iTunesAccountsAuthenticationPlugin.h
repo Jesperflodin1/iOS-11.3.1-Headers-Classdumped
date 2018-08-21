@@ -1,0 +1,2 @@
+#import <iTunesAccountsAuthenticationPlugin/iTunesAccountsVerifyCredentialsResponse.h>
+#import <iTunesAccountsAuthenticationPlugin/iTunesAccountsAuthenticationPlugin.h>
